@@ -2,6 +2,13 @@
   <img src="assets/logo.png" alt="EPSSight Logo" width="320"/>
 </p>
 
+<!-- Badges -->
+![Version](https://img.shields.io/badge/version-1.0.0-red)
+![Python](https://img.shields.io/badge/python-3.8%2B-green)
+![License](https://img.shields.io/badge/license-MIT-white)
+![Build](https://img.shields.io/badge/build-stable-blue)
+![Style](https://img.shields.io/badge/code%20style-black-black)
+
 > Foco na priorização de vulnerabilidades baseada em EPSS (Exploit Prediction Scoring System), gerando um XLSX e um resumo (KPIs) direto no terminal.
 
 ## O que é
